@@ -3,7 +3,6 @@
 <p align="center">
 Esse projeto é um desafio proposto pelo curso DevQuest para aprimorar os meus conhecimentos nas tecnologias WEB. <br/>
 </p>
-<br>
 
 ## 💻 Projeto
 
@@ -18,7 +17,6 @@ Temos alguns dados do usuário:
 - Eventos
 
 <br>
-
 ---
 [Visite o projeto online](https://github.com/Vyktuur/quest-js-avancado/deployments/activity_log?environment=github-pages)
 
@@ -31,4 +29,3 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML
 - CSS
 - JavaScript
-
